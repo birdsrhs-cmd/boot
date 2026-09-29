@@ -1,0 +1,4 @@
+[submodule "skills/scientific-agent-skills"]
+	path = skills/scientific-agent-skills
+	url = https://github.com/K-Dense-AI/scientific-agent-skills.git
+	branch = main
